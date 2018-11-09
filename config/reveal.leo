@@ -24,8 +24,25 @@
 <v t="leo.20180827201621.9" a="E"><vh>封面投影片</vh>
 <v t="leo.20180827201621.10"><vh>封面投影片內容</vh></v>
 </v>
-<v t="leo.20180827201621.11" a="E"><vh>快捷鍵</vh>
+<v t="leo.20180827201621.11"><vh>快捷鍵</vh>
 <v t="leo.20180827201621.12"><vh>投影片快捷鍵</vh></v>
+</v>
+<v t="leo.20181109105130.1" a="E"><vh>作業影片</vh>
+<v t="leo.20181109105139.1" a="E"><vh>week1</vh>
+<v t="leo.20181109105752.1"><vh>newHeadline</vh></v>
+</v>
+<v t="leo.20181109105549.1" a="E"><vh>week2</vh>
+<v t="leo.20181109105600.1"><vh>newHeadline</vh></v>
+</v>
+<v t="leo.20181109105913.1" a="E"><vh>week3</vh>
+<v t="leo.20181109105949.1"><vh>newHeadline</vh></v>
+</v>
+<v t="leo.20181109110302.1" a="E"><vh>week4</vh>
+<v t="leo.20181109110334.1"><vh>newHeadline</vh></v>
+</v>
+<v t="leo.20181109110531.1" a="E"><vh>week5</vh>
+<v t="leo.20181109110557.1"><vh>newHeadline</vh></v>
+</v>
 </v>
 <v t="leo.20180827201621.13"><vh>各式內容引用範例</vh>
 <v t="leo.20180827201621.14" a="E"><vh>導入數學符號與方程式</vh>
@@ -326,5 +343,56 @@ make.start()
 
 						
 </t>
+<t tx="leo.20181109105130.1">&lt;section&gt;
+@others
+&lt;/section&gt;
+</t>
+<t tx="leo.20181109105139.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;</t>
+<t tx="leo.20181109105549.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;</t>
+<t tx="leo.20181109105600.1">#week2
+
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/U2_baVoCSx0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;</t>
+<t tx="leo.20181109105752.1">#week1
+
+
+
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/U2_baVoCSx0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;</t>
+<t tx="leo.20181109105913.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;</t>
+<t tx="leo.20181109105949.1">#week3
+
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/NH0OS1TKZqM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;</t>
+<t tx="leo.20181109110302.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;</t>
+<t tx="leo.20181109110334.1">#week4
+
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/oOio62DIXDY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;</t>
+<t tx="leo.20181109110531.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;</t>
+<t tx="leo.20181109110557.1">#week5
+
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/rUX3bSHikvY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;</t>
 </tnodes>
 </leo_file>
